@@ -1,8 +1,3 @@
----
-marp: true
-header: 'header text'
-footer: 'footer text'
----
 # 音声解析自主研究　Vol3. 201201
 ---
 ## 1. 前回のお話
