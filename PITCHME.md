@@ -2,7 +2,7 @@
 ---
 ### 1. 前回のお話
 +++
-@snap[northeast]
+@snap[north]
 音声データ読み込みの精緻化
 @snapend
 - サンプリング周波数の調整
