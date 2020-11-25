@@ -16,16 +16,6 @@
     - 乗法性歪の補正
   - 動的特徴量の取得
 ---
-```python {cmd=true matplotlib=true}
-import matplotlib.pyplot as plt
-import numpy as np
-x = np.arange(-10, 10, 0.01)
-y_sin = np.sin(x)
-y_cos = np.cos(x)
-plt.plot(x, y_sin)
-plt.plot(x, y_cos)
-plt.show()
-```
 ---
 ## 2. 今回のお話
 ---
